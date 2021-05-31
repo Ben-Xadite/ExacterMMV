@@ -33,6 +33,6 @@ $ sudo python3 exacterMMV.py
 
 ```
 
-!(Image1.png)
-!(Image2.png)
-!(Image3.png)
+!(Image1.jpg)
+!(Image2.jpg)
+!(Image3.jpg)
