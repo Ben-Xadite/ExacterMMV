@@ -44,3 +44,7 @@ Then to run the script:
 $ sudo python3 exacterMMV.py
 
 ```
+
+Results:
+
+![CSV](images/CSV.png)
